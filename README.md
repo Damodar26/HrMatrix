@@ -1,13 +1,25 @@
 # HRMatrix
 
-A comprehensive HR management dashboard designed to provide insightful reports and analytics for human resource professionals.
+HRMatrix is an application developed using Flutter and Firebase, aimed for providing organizations and companies with a platform to manage and analyze performance of the employees and staff members working in that organization. Designed for a smoother and efficient connection between the admin and the employees, the app focuses on faster responses, regular updates, leave requests and performance based analysis of every employee.
 
+Key Features:
+1.Restricted Access
+•	Every employee is individually provided with a unique email address which can only be accessed by them.
+•	This email provided is different for the admin and the employees working under him/her, as the admin can access the information of every employee.
 
-Features
-Interactive HR reporting system with a modern UI/UX featuring a light blue-greenish gradient background for a professional look.
-Dark mode support and customizable themes for an enhanced user experience.
-Dynamic and expandable charts to improve data presentation and analysis.
-Smooth animations and transitions for a polished and refined feel.
+2.Attendance Record
+•	Attendance of every employee is recorded with check-in and check-out time which is updated as on marked. Total days present and absent for work is also recorded with a detailed view accessible to the admin.
+
+3.Analysis and Performance Overview
+•	A detailed analysis of the attendance record, monthly performance and task completion status is calculated and represented graphically.
+
+4.Leave Requests
+•	Employees can request for leaves by providing detailed dates and reasoning. 
+•	These requests are further accepted or rejected by the admin or the head in charge. Status of leave request is then depicted and consequently updated.
+
+5.Regular Updates
+•	Employees can be notified with regular updates and meetings scheduled.
+•	These updates are sent by the admin or the head of department for the employees to be on track. 
 
 
 Technology Used
